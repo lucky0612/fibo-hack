@@ -1,0 +1,59 @@
+{
+  "shot_id": "shot_20251216_025038_93649b05",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Hero character at edge of cliff overlooking vast fantasy landscape",
+  "shot_type": "medium shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "The hero stands at the edge of a cliff, overlooking a vast fantasy landscape during the golden hour, conveying introspection and determination.",
+    "objects": [
+      {
+        "description": "The hero character, standing with feet shoulder-width apart, back slightly arched, hands clenched into fists, wearing worn and practical attire adorned with symbols of significance to their story.",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "medium",
+        "shape_and_color": "Earth tones with hints of blue and silver, symbolizing their journey and character development",
+        "texture": "worn fabric and weathered leather",
+        "appearance_details": "determined expression with a hint of self-doubt, clenched fists, and a slight arch in their back",
+        "pose": "static, with a sense of dynamic tension",
+        "orientation": "facing the landscape, with a slight turn to the right"
+      }
+    ],
+    "background_setting": "A vast fantasy landscape with towering mountain ranges, deep valleys, a sprawling city, and a magical forest in the distance, under a soft, warm, golden hour light.",
+    "lighting": {
+      "conditions": "Cinematic Rembrandt setup with a Teal/Orange color contrast",
+      "direction": "45-degree angle, slightly above eye level",
+      "shadow": "Soft, with a triangle of light under the eye on the shadow side of the face"
+    },
+    "aesthetics": {
+      "composition": "Rule of thirds, with the hero placed off-center, looking into the distance",
+      "color_scheme": "Dominant earth tones with hints of blue and silver, and a warm golden hour glow",
+      "mood_atmosphere": "Contemplative, with an undercurrent of anticipation and a hint of fear",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/5.6, keeping the hero in sharp focus and slightly blurring the foreground and background",
+      "focus": "Sharp on the hero's face and attire",
+      "camera_angle": "Slight low angle, looking up at the hero",
+      "lens_focal_length": "50mm"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "The hero stands at the edge of a cliff, overlooking a vast fantasy landscape during the golden hour, conveying introspection and determination.. Camera: Slight low angle, looking up at the hero. Lens: 50mm. Lighting: Cinematic Rembrandt setup with a Teal/Orange color contrast",
+  "seed": 820758976,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/81c656c8c4b441c6ac6fb2c6d982b224.png?Expires=1766438457&Signature=BpmVq4UAaEpdCDroH~6u7pzo7ffro1EZgLSiGAj3T7~65jzKXCgxPjUhYVRKtMhTxfNtSahpH4oFmeTnQv5OTepc~FTFK8ZlkQUVUh2iXCqFfcfsOXN0DIWsf7oGAJIxljhbWh8nRNLq6k9wDYkWkMTxuYsbRgu3yV9N4Z5Cf4D3b037AS9rFt4kC~aC2Tpc5Scs-9XMizNGSrKHsWAIKCTGDl1A71eROPjNALFXu2FlFtdxUgbrxMmgn961Y6gUKkY0UeQ954KMufMmPe01iXKZmWVhrOxWRu4STbqHpVCApwDZZoz3bLoQ~ffv0xKbb~lOLVKYyW9NZ0YzZUqijA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 02:50:59.326565",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

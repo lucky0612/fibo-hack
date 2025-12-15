@@ -1,0 +1,59 @@
+{
+  "shot_id": "shot_20251216_013428_1d769a42",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Hero character at edge of cliff overlooking vast fantasy landscape",
+  "shot_type": "extreme close-up",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "The hero character stands at the edge of a cliff, overlooking a vast fantasy landscape with a mix of emotions on their face",
+    "objects": [
+      {
+        "description": "The hero character, with a subtle mix of emotions such as curiosity, fear, and determination on their face",
+        "location": "Center, but slightly off-center to the right, in the foreground",
+        "relationship": "The hero is the main subject, with the landscape behind them serving as a backdrop to their emotional state",
+        "relative_size": "medium",
+        "shape_and_color": "The hero's face is warm and golden, with a rounded shape and smooth features",
+        "texture": "The hero's skin has a smooth texture, with subtle wrinkles and imperfections that add to their emotional expression",
+        "appearance_details": "The hero's eyes are cast downward, with a slight furrowed brow and a hint of a smile on their lips",
+        "pose": "The hero stands with their feet shoulder-width apart, with their weight evenly distributed on both feet and their arms at their sides",
+        "orientation": "The hero faces slightly to the right, with their eyes cast downward and their face turned away from the camera"
+      }
+    ],
+    "background_setting": "A vast fantasy landscape with rolling hills, towering mountains, and a deep valley below, with a muted and earthy color palette dominated by shades of blue and grey",
+    "lighting": {
+      "conditions": "Soft, warm, and intimate, with a subtle gradient of tones and values that create a sense of depth and dimensionality",
+      "direction": "45\u00b0 key light, positioned above the hero's eye line and slightly to the right, with a soft and gentle wraparound quality",
+      "shadow": "The shadows are soft and subtle, with a moderate to low contrast level that adds to the sense of intimacy and immediacy"
+    },
+    "aesthetics": {
+      "composition": "Rule of thirds, with the hero's face placed off-center and the landscape behind them blurred, to create a sense of balance and harmony in the composition while emphasizing the hero's emotional core",
+      "color_scheme": "Muted and earthy, with shades of blue and grey dominating the landscape, and warm and golden tones on the hero's face",
+      "mood_atmosphere": "Quiet reverence and wonder, with a sense of introspective contemplation and awe",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "Shallow, with an f-stop of 2.8 and a focal length of 135mm, to keep the hero's face in sharp focus and blur the landscape behind",
+      "focus": "The hero's face is in sharp focus, with a subtle gradient of focus that falls off as the distance from the camera increases",
+      "camera_angle": "Eye-level, to create a sense of intimacy and immediacy with the hero's emotional state",
+      "lens_focal_length": "135mm, to match the extreme close-up shot type and create a shallow depth of field"
+    },
+    "style_medium": "photograph",
+    "context": "Concept for a fantasy film, with the hero character standing at the edge of a cliff overlooking a vast and mysterious landscape",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "The hero character stands at the edge of a cliff, overlooking a vast fantasy landscape with a mix of emotions on their face. Camera: Eye-level, to create a sense of intimacy and immediacy with the hero's emotional state. Lens: 135mm, to match the extreme close-up shot type and create a shallow depth of field. Lighting: Soft, warm, and intimate, with a subtle gradient of tones and values that create a sense of depth and dimensionality",
+  "seed": 1781413785,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/d3fdbffd169442e68eafa10e3e17537c.png?Expires=1766433885&Signature=AY-8oTDtJbmhtisjLVfqjB1MzlL~rMhA4a4tB7l36TXml9bNDge6f6BUpKd00Lb4XeOQgjPJZgW9IDDunAyFxLZJC7NzyyyjDe7rqlh5zJL6MCB~IkfnlTYggCXiEnqR9vCU2Zo3FuNZI1w6rVKi~0gG0znGOqnklELya2WT-DYkJVsx7YPbKSutU2H~YC5jJ~zvS9lCxkTHyQzat0yBzJrdas4piscUeK919pUMz2TqsD~EdxtcVB4vAbHJ8POS6IDSU7Uiqxjq1Cff74jyvaeqgEyAAF7PC4M-01hQ1dWRU3ZJ7GPJ3To-3L81D1wqSWQ4WMjBtogFOIYtM2L9ow__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 01:34:47.195591",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

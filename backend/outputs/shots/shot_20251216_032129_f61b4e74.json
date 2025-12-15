@@ -1,0 +1,62 @@
+{
+  "shot_id": "shot_20251216_032129_f61b4e74",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Hero character at edge of cliff overlooking vast fantasy landscape",
+  "shot_type": "medium shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "A 28-year-old male hero stands at the edge of a cliff, gazing out at the fantasy landscape with a determined look, lit by a soft diffused Rembrandt setup with a neutral 5600K color temperature, captured in a static shot with an eye-level camera angle and a medium depth of field.",
+    "objects": [
+      {
+        "description": "A 28-year-old male hero standing at the edge of a cliff, wearing a rugged earth-toned leather jacket with a faded blue shirt underneath, dark brown pants with numerous scratches and scuffs, and scuffed knee-high leather boots, his short, sandy-blond hair messy and wind-blown, a short beard framing his determined jawline, bright blue eyes scanning the horizon, athletic build, tall and lean with broad shoulders, standing with feet shoulder-width apart and hands clasped behind his back, oriented at a three-quarter turn to the camera, wearing a wide leather belt with a silver buckle, a worn leather backpack slung over his left shoulder, and holding a sturdy wooden walking staff in his right hand, with a silver pendant in the shape of a bird hanging from a leather cord around his neck",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "large",
+        "shape_and_color": "earth tones, blues, and browns",
+        "texture": "leather, fabric, skin",
+        "appearance_details": "rugged, worn, scuffed",
+        "pose": "standing with feet shoulder-width apart and hands clasped behind his back",
+        "orientation": "three-quarter turn to the camera"
+      }
+    ],
+    "background_setting": "Vast fantasy landscape",
+    "lighting": {
+      "conditions": "Rembrandt 5600K neutral",
+      "direction": "side 45",
+      "shadow": "soft shadows",
+      "quality": "soft diffused"
+    },
+    "aesthetics": {
+      "composition": "Rule of Thirds",
+      "color_scheme": "Neutral with earth tones",
+      "mood_atmosphere": "Determined",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/5.6 medium",
+      "focus": "sharp on subject",
+      "camera_angle": "eye_level",
+      "lens_focal_length": "50mm",
+      "camera_movement": "static"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "photorealistic",
+    "negative_prompt": "blurry, low quality, deformed, disfigured, bad anatomy, extra limbs, mutation"
+  },
+  "simple_prompt": "A 28-year-old male hero stands at the edge of a cliff, gazing out at the fantasy landscape with a determined look, lit by a soft diffused Rembrandt setup with a neutral 5600K color temperature, captured in a static shot with an eye-level camera angle and a medium depth of field.",
+  "seed": 825570927,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/98a6b894229d4930ace54846d30f92c5.png?Expires=1766440303&Signature=EuSFu-yG3~lHxR3CELSNzHkO9hlD3XRl~MbrOrAWKZrtSIrNrlhSbTzaUMZVqDn-YaCIZ0-kBwoOx3A9w33QGVDA2vvof96mrvLimL4jNW-iXMj8rjFvpszvRBLdlGpJKzUt9d-jGBxTF7brMRYdsMPaDHPGn3WV1LaWwzeLpz1mVKCALpPXLlhxgThoFFQcb032O2uLAQjcEZzhvbnYpVUoof1cKm1DGYwkjJOrP6SD1B2P6X3Br5qSt5Crevaw-Z1oV89sq4O-OzKgBVCrrhVqkIjeWMUTJ3YjyttUvvBN0aSki3fXEjg5-aQSJycgT-~HH~Jhlr8QdTIAI5txXA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 03:21:46.534916",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

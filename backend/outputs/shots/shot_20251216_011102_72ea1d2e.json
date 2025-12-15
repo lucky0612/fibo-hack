@@ -1,0 +1,70 @@
+{
+  "shot_id": "shot_20251216_011102_72ea1d2e",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Astronaut discovering alien artifact on Mars",
+  "shot_type": "wide shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "Astronaut discovers an alien artifact on the barren Martian landscape, evoking a feeling of awe and wonder",
+    "objects": [
+      {
+        "description": "Astronaut in a futuristic space suit, with a helmet and backpack, slowly approaching the alien artifact",
+        "location": "Center of the frame, with the artifact to their right",
+        "relationship": "The astronaut is the main subject, with the alien artifact as the secondary subject",
+        "relative_size": "Medium",
+        "shape_and_color": "The astronaut's suit is a metallic silver, with a gold-tinted helmet visor, while the alien artifact is a mysterious, glowing red-orange",
+        "texture": "The astronaut's suit has a smooth, metallic texture, while the alien artifact has a rough, crystalline texture",
+        "appearance_details": "The astronaut's suit is covered in small, intricate details, such as life support systems and communication equipment, while the alien artifact has an otherworldly, pulsing glow",
+        "pose": "The astronaut is standing upright, with their arms slightly bent and their hands grasping a sampling tool",
+        "orientation": "Facing the alien artifact, with their helmet visor reflecting the Martian landscape"
+      },
+      {
+        "description": "The alien artifact, a mysterious, glowing red-orange structure with an otherworldly shape and texture",
+        "location": "To the right of the astronaut, in the foreground",
+        "relationship": "The alien artifact is the secondary subject, with the astronaut as the main subject",
+        "relative_size": "Large",
+        "shape_and_color": "The alien artifact has a unique, crystalline shape, with a glowing red-orange color that pulsates with an otherworldly energy",
+        "texture": "The alien artifact has a rough, crystalline texture, with intricate patterns and details etched into its surface",
+        "appearance_details": "The alien artifact has an otherworldly, pulsing glow, with an energy that seems to emanate from within",
+        "pose": "The alien artifact is stationary, with an eerie, unsettling presence",
+        "orientation": "Facing the astronaut, with its glowing surface reflecting off the Martian landscape"
+      }
+    ],
+    "background_setting": "The barren, rusty red Martian landscape, with towering rock formations and vast, empty expanses of sand and dust",
+    "lighting": {
+      "conditions": "A combination of natural and artificial lighting, with a primary key light from the left side of the frame, slightly elevated to mimic the Martian sun's angle",
+      "direction": "45\u00b0 key light from the left side of the frame, with a fill light ratio of 1:2 to 1:3 on the opposite side",
+      "shadow": "Deep, rich shadows with a moderate to high contrast level, creating a sense of depth and dimension in the scene"
+    },
+    "aesthetics": {
+      "composition": "Framing technique using the rule of thirds, with the astronaut and the alien artifact placed along the lines and intersections",
+      "color_scheme": "A dominant red-orange hue, with touches of blue and purple to convey a sense of mystery and wonder",
+      "mood_atmosphere": "Eerie and contemplative, with a sense of awe and wonder",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "Deep (f/11-22), with both the astronaut, the alien artifact, and the Martian landscape in sharp focus",
+      "focus": "The astronaut and the alien artifact are in sharp focus, with a slight blur to the background",
+      "camera_angle": "Eye-level, providing an intimate and immersive perspective",
+      "lens_focal_length": "24mm, matching the wide shot type and providing an appropriate field of view for the scene"
+    },
+    "style_medium": "photograph",
+    "context": "Concept for a sci-fi film, capturing a moment of discovery and awe on the Martian landscape",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "Astronaut discovers an alien artifact on the barren Martian landscape, evoking a feeling of awe and wonder. Camera: Eye-level, providing an intimate and immersive perspective. Lens: 24mm, matching the wide shot type and providing an appropriate field of view for the scene. Lighting: A combination of natural and artificial lighting, with a primary key light from the left side of the frame, slightly elevated to mimic the Martian sun's angle",
+  "seed": 1693386898,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/cf0cf3129ace43388516954903c30988.png?Expires=1766432480&Signature=HzgGxL~RsKw6qQ9derPj2wL1PUFsNNoAJZkOAOw0Iho9o2S4Y1z7a4jkTJ1kaUDZkI6aUAqML3cmtPkp-O4wQ0eavDIm93BXms2NsVhgJhQvAkkcUO9NaItd7zLSYwKP3vYyDGHzFdWG5wtnDk5XfPxghcKH8o3jw0cIyaU4OeoCXZDIVZut99zU0fqiFtT~0pgHDi1I~or~8VCJQQS-RDag78V0PZVYklOL1~odG-hFl4XBPvYR6sqXGsZukUBYrMB~VDQEIrc9dpGAOwlMsM4lejpH2Msi6l8mds35fSn8FVPq-OwvDuDn4f3LDfbCZiwX9jQqFXsJ3XKQUBVvhA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 01:11:25.680432",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

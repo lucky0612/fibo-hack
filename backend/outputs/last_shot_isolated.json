@@ -1,0 +1,41 @@
+{
+    "short_description": "An astronaut in a cream-colored spacesuit stands at the Martian sunset, filled with awe and curiosity, as the warm orange glow casts a long shadow behind him, with a metallic sample collection tool in hand, in a moment of profound discovery, captured with a soft diffused side light and eye-level camera angle",
+    "objects": [
+        {
+            "description": "A 40-year-old astronaut, dressed in a bulky, cream-colored spacesuit with a faded NASA patch on the left shoulder, orange accents, and a textured, metallic sheen, stands at the Martian sunset with an mix of awe and curiosity on his face, his short, light brown hair visible under the raised gold-tinted visor, a few days' worth of stubble on his jawline, piercing blue eyes with a hint of wonder, a small scar above his left eyebrow from a past mission, average height with a fit, athletic build, maintaining a slightly bent posture as if leaning in to examine the ancient alien artifact more closely, his right hand grasping a metallic sample collection tool while his left hand rests on the hip, oriented at a three-quarter angle to the camera, the Martian landscape stretching out behind him with the artifact at his feet, a silver astronaut identification tag visible on his chest, a communication device on his wrist, and a utility belt around his waist with various tools and pouches",
+            "location": "center",
+            "relationship": "main focus",
+            "relative_size": "medium",
+            "shape_and_color": "cream-colored spacesuit with orange accents and metallic sheen",
+            "texture": "fabric and metallic textures",
+            "appearance_details": "bulky spacesuit, short light brown hair, few days' worth of stubble, piercing blue eyes, small scar above left eyebrow",
+            "pose": "slightly bent posture, right hand grasping metallic sample collection tool, left hand on hip",
+            "orientation": "three-quarter angle to the camera"
+        }
+    ],
+    "background_setting": "Martian landscape at sunset",
+    "lighting": {
+        "conditions": "Rembrandt 5600K neutral",
+        "direction": "side_90",
+        "shadow": "soft shadows",
+        "quality": "soft diffused"
+    },
+    "aesthetics": {
+        "composition": "Rule of Thirds",
+        "color_scheme": "neutral with warm orange accents",
+        "mood_atmosphere": "awe and curiosity",
+        "preference_score": "very high",
+        "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+        "depth_of_field": "f/8 medium",
+        "focus": "sharp on subject",
+        "camera_angle": "eye_level",
+        "lens_focal_length": "24mm",
+        "camera_movement": "static"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "photorealistic",
+    "negative_prompt": "blurry, low quality, deformed, disfigured, bad anatomy, extra limbs, mutation"
+}

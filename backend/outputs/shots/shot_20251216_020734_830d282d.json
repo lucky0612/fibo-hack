@@ -1,0 +1,59 @@
+{
+  "shot_id": "shot_20251216_020734_830d282d",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Hero character at edge of cliff overlooking vast fantasy landscape",
+  "shot_type": "medium shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "The hero character stands at the edge of a cliff, overlooking a vast fantasy landscape, lost in contemplation and introspection",
+    "objects": [
+      {
+        "description": "Hero character, wearing worn and practical travel attire, with a few telling scars or marks, standing with feet shoulder-width apart, toes curled over the edge of the cliff, hands clasped behind their back, and gaze cast outward",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "matches medium shot",
+        "shape_and_color": "Earthy tones, with a touch of blue in the sky to hint at possibilities ahead",
+        "texture": "skin and fabric details",
+        "appearance_details": "specific facial features, with a subtle emphasis on the character's emotional state",
+        "pose": "static, with a sense of relaxed tension",
+        "orientation": "facing camera, with a slight angle to convey unease and uncertainty"
+      }
+    ],
+    "background_setting": "Vast fantasy landscape, with a cliff's edge visible at the character's feet, and a horizon stretching out to the distance, featuring rolling hills, mountains, and a touch of blue in the sky",
+    "lighting": {
+      "conditions": "Rembrandt, with a warm color temperature and a soft light texture",
+      "direction": "45-degree angle to the character's face, with the light source coming from the right side of the frame",
+      "shadow": "Subtle, with a triangle of light on the shadow side of the character's cheek, adding depth and dimension to their face"
+    },
+    "aesthetics": {
+      "composition": "Rule of thirds, with the character's face and eyes at the intersection of the top-left or top-right thirds",
+      "color_scheme": "Muted, earthy tones, with a touch of blue in the sky to hint at possibilities ahead",
+      "mood_atmosphere": "Serene melancholy, with a sense of contemplation and introspection",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/2.8, with a shallow depth of field to draw attention to the character's face and eyes",
+      "focus": "Sharp on subject, with a subtle blur to the landscape behind",
+      "camera_angle": "45-degree angle to the character, with a slight Dutch angle to convey unease and uncertainty",
+      "lens_focal_length": "50mm"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "The hero character stands at the edge of a cliff, overlooking a vast fantasy landscape, lost in contemplation and introspection. Camera: 45-degree angle to the character, with a slight Dutch angle to convey unease and uncertainty. Lens: 50mm. Lighting: Rembrandt, with a warm color temperature and a soft light texture",
+  "seed": 1665234713,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/ce1c3edb05b54f10bf3bd0e857357730.png?Expires=1766435880&Signature=L8Fj7LqXN3IJUngoRxBVKl0Y1V14gFgd~qC22Mgy9KeTPNjIjFOhDkC~snIlyWGXLisWHpBGFMF2ZmPsxnGYlCkDR~AAW90s~p3CWdX5UbkZM6b9e48AB0A2vOPLW5ijllfw6Lxtfhn8BeSksDefEOqzP5mmp2dY-AuLmMWqiIg0Phs1AUWrEAnKRL-LHgWCUyk8AKN49mPB9llpPd-VwbRRkatGVEdutzJd-0yKkHvZFd7rWGTRo4p2~f1Em9TJIv-E05kP8qVmLtAiqDPZNo~cSB3voVRKCb130Y5dayKbys0yGIgJN9hzd2ig-0RWVTl0vtK7obn2XW1K6wEcMw__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 02:08:02.270845",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

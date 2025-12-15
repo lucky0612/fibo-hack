@@ -1,0 +1,62 @@
+{
+  "shot_id": "shot_20251216_032332_f9a42963",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Astronaut discovering ancient alien artifact on Mars at sunset",
+  "shot_type": "wide shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "A 42-year-old male astronaut standing in a Martian landscape, holding an ancient alien artifact, illuminated by a warm orange sunset glow, captured with a soft diffused side light at eye level",
+    "objects": [
+      {
+        "description": "A 42-year-old male astronaut, wearing a pristine white and orange NASA-issue spacesuit with a gold helmet under his arm, the suit's texture a mix of glossy and matte finishes, with a utility belt around his waist and a communication device on his chest, short light brown hair visible under the helmet's rim, bright blue eyes with a hint of excitement, a small scar above his left eyebrow from a previous mission, a fit and athletic build, standing approximately 5'10\" with an upright posture, leaning forward slightly with his right hand grasping a strange, ancient alien artifact and his left hand resting on his knee, oriented at a three-quarter turn to the camera, the Martian sunset casting a warm orange glow on his suit, a silver watch on his left wrist, and a pair of high-tech, silver-rimmed glasses perched on his forehead",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "medium",
+        "shape_and_color": "white, orange, and metallic silver",
+        "texture": "glossy and matte finishes, fabric, and skin",
+        "appearance_details": "pristine spacesuit, utility belt, and communication device",
+        "pose": "leaning forward with right hand grasping artifact and left hand on knee",
+        "orientation": "three-quarter turn to the camera"
+      }
+    ],
+    "background_setting": "vast, barren Martian landscape",
+    "lighting": {
+      "conditions": "Rembrandt 5600K neutral",
+      "direction": "side 45",
+      "shadow": "soft shadows",
+      "quality": "soft diffused"
+    },
+    "aesthetics": {
+      "composition": "Rule of Thirds",
+      "color_scheme": "neutral with warm orange hues",
+      "mood_atmosphere": "awe and curiosity",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/8 medium",
+      "focus": "sharp on subject",
+      "camera_angle": "eye level",
+      "lens_focal_length": "24mm",
+      "camera_movement": "static"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "photorealistic",
+    "negative_prompt": "blurry, low quality, deformed, disfigured, bad anatomy, extra limbs, mutation"
+  },
+  "simple_prompt": "A 42-year-old male astronaut standing in a Martian landscape, holding an ancient alien artifact, illuminated by a warm orange sunset glow, captured with a soft diffused side light at eye level",
+  "seed": 1675869807,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/dec5473a76614b4da5c836f8c8dbffcd.png?Expires=1766440425&Signature=D~0CAbRCN0MhhSSYTHLn~u~EMrHruF7CeGZSjNR-GxNy~norXmTuVoTbV0ySJkOjQgeytU0UrwRCU26BvqWRFGXqZzlef02Q8y-kDe2oF2KIW4Ti4UT2BfoPFKe8~2-7ssP7o54F-UoSwbxWgjxKFEx9~Di~lB1BE2BleolT5UBw5NgVnmaFFNi6~9yoCbePzzIVlJsqrcDzaEeBDFozx5TlJG~Y1yzFyAl5g~qOJkCaRxJLPg3U~KBmpHFssiFjWOIWhWMT2H01foLyVJRfC~OTDDF6adVXLECdcnxF20Oh6Rod2PlITKJbIdfWD3SeIcTclG0vAOKkqxlmB2ONfA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 03:23:47.401754",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

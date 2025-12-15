@@ -1,0 +1,70 @@
+{
+  "shot_id": "shot_20251216_012027_b75aa45a",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Astronaut discovering alien artifact on Mars",
+  "shot_type": "wide shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "Astronaut stands before an ancient alien artifact on Mars, surrounded by a vast, barren landscape that evokes a sense of awe and wonder",
+    "objects": [
+      {
+        "description": "Astronaut in a sleek, futuristic spacesuit, with a mix of metallic and fabric elements, and a gold-tinted visor that reflects the Martian landscape",
+        "location": "Center-left of frame, with the artifact positioned in the center",
+        "relationship": "The astronaut is dwarfed by the vast Martian landscape, with the artifact serving as a focal point that draws the viewer's eye",
+        "relative_size": "small",
+        "shape_and_color": "The spacesuit is a combination of curved and angular lines, with a predominantly white and silver color scheme, and accents of gold and black",
+        "texture": "The spacesuit has a mix of smooth, metallic surfaces and rougher, fabric-like textures, with a sense of wear and tear from the Martian environment",
+        "appearance_details": "The astronaut's pose conveys a sense of wonder and trepidation, with a slight lean forward and a raised arm that suggests a sense of curiosity and exploration",
+        "pose": "Standing with a slight lean forward, and a raised arm that gestures towards the artifact",
+        "orientation": "Facing the artifact, with a slight tilt of the head that suggests a sense of fascination and awe"
+      },
+      {
+        "description": "Ancient alien artifact, with intricate carvings and symbols that evoke a sense of mystery and otherworldliness",
+        "location": "Center of frame, with the astronaut positioned to the left",
+        "relationship": "The artifact is the focal point of the scene, with the astronaut and the Martian landscape serving as a backdrop that emphasizes its significance and importance",
+        "relative_size": "medium",
+        "shape_and_color": "The artifact has a complex, irregular shape, with a combination of geometric and organic forms, and a muted, dusty red color scheme that suggests age and decay",
+        "texture": "The artifact has a rough, weathered texture, with intricate carvings and symbols that add to its sense of mystery and otherworldliness",
+        "appearance_details": "The artifact is covered in a thin layer of Martian dust, with a sense of wear and tear that suggests it has been exposed to the harsh Martian environment for millions of years",
+        "pose": "Standing upright, with a sense of solidity and permanence that contrasts with the astronaut's sense of fragility and impermanence",
+        "orientation": "Facing the astronaut, with a sense of directness and confrontation that adds to the scene's sense of drama and tension"
+      }
+    ],
+    "background_setting": "The vast, barren landscape of Mars, with a sense of emptiness and isolation that emphasizes the astronauts' vulnerability and the artifact's significance",
+    "lighting": {
+      "conditions": "Soft, warm light with a slight sense of coolness and distance, that evokes a sense of otherworldliness and mystery",
+      "direction": "45\u00b0 key light, positioned to the side of the astronaut to create a sense of depth and dimensionality, and to emphasize the textures and contours of the Martian terrain",
+      "shadow": "Moderate shadows with a sense of depth and dimensionality, that add to the scene's sense of drama and tension, and emphasize the artifact's intricate carvings and symbols"
+    },
+    "aesthetics": {
+      "composition": "Centered, with the artifact placed prominently in the center of the frame, and the astronaut positioned in a way that conveys a sense of smallness and vulnerability",
+      "color_scheme": "Muted, dusty red, with shades of orange and yellow that evoke a sense of otherworldliness and decay, and add to the scene's sense of drama and tension",
+      "mood_atmosphere": "A sense of awe and wonder, with a hint of unease and discovery that defines this moment in the story, and emphasizes the astronauts' vulnerability and the artifact's significance",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "Deep (f/11-22), to ensure that both the astronaut, the artifact, and the vast Martian landscape are in sharp focus, and to convey the sense of depth and dimensionality of the environment",
+      "focus": "The astronaut and the artifact are in sharp focus, with the Martian landscape gradually fading into the distance, and adding to the scene's sense of depth and dimensionality",
+      "camera_angle": "Eye-level, to convey a sense of equality and normality, which contrasts with the extraordinary and otherworldly discovery, and emphasizes the astronauts' smallness and vulnerability",
+      "lens_focal_length": "24mm, to match the wide shot type and capture the expansive Martian terrain, while also providing a sense of intimacy and immediacy with the astronaut and the artifact"
+    },
+    "style_medium": "photograph",
+    "context": "Concept for a sci-fi film, with a sense of cinematic drama and tension that emphasizes the astronauts' vulnerability and the artifact's significance",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "Astronaut stands before an ancient alien artifact on Mars, surrounded by a vast, barren landscape that evokes a sense of awe and wonder. Camera: Eye-level, to convey a sense of equality and normality, which contrasts with the extraordinary and otherworldly discovery, and emphasizes the astronauts' smallness and vulnerability. Lens: 24mm, to match the wide shot type and capture the expansive Martian terrain, while also providing a sense of intimacy and immediacy with the astronaut and the artifact. Lighting: Soft, warm light with a slight sense of coolness and distance, that evokes a sense of otherworldliness and mystery",
+  "seed": 1556500434,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/753bb96ba7774295a633845984fed74b.png?Expires=1766433047&Signature=Ju2zYS4fZQl8BMJ3MoBv0YHO1H4~KWl0v7eXOYdn-B3gADYhmxOK1JS3hKWQMSyaSxMGRyGAZa6jb4nUwHoWHg3kp4wzcXpZ3uwE4rKd1WEcedf2DHD7OANF5tpqg2cN8syOwBMmADFmoMG4NzkHUXoaYFtJuXZiLG1dNTGt1K0B7Yc~XLwHvJFyuG0jMUdBepl5G4uBSRs~53TOfhIhdUIfHr376dTTnFcYBi-S6kw41psHVxQl3y7uEe6ZMJoYRCCadwDI9Vf6PzdCV1JNhlJ0rhoYXswX2infZDtzcH9pek7cEaKd28W7y22yM7EmDTJBO8FtnTdyXc~neLRQ9w__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 01:20:47.821179",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

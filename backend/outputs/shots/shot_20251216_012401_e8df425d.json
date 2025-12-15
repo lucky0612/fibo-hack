@@ -1,0 +1,70 @@
+{
+  "shot_id": "shot_20251216_012401_e8df425d",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Astronaut discovering alien artifact on Mars",
+  "shot_type": "wide shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "Astronaut stands at the threshold of a groundbreaking discovery on Mars, surrounded by a surreal landscape and an ominous alien artifact",
+    "objects": [
+      {
+        "description": "Astronaut in a sleek, metallic spacesuit with a gold-tinted visor, standing at the edge of a massive, ancient structure",
+        "location": "Center-left, with the Martian landscape stretching out to the right and the alien artifact looming in the background",
+        "relationship": "The astronaut is the central figure, with the landscape and artifact serving as a backdrop to their discovery",
+        "relative_size": "Small, emphasizing the vastness of the Martian terrain and the magnitude of the discovery",
+        "shape_and_color": "The astronaut's suit is a combination of metallic silvers and deep blacks, with the gold-tinted visor adding a touch of warmth and humanity",
+        "texture": "The suit's texture is smooth and metallic, with a subtle sheen that suggests advanced materials and technology",
+        "appearance_details": "The astronaut's suit is worn and weathered, with subtle scratches and scuffs that suggest a long and difficult journey",
+        "pose": "Standing upright, with a sense of awe and wonder, and a slight lean forward to emphasize their fascination with the artifact",
+        "orientation": "Facing the artifact, with their body angled slightly to the right to take in the full scope of the discovery"
+      },
+      {
+        "description": "Alien artifact, a massive, pulsing structure that dominates the background of the scene",
+        "location": "Background, looming over the astronaut and the Martian landscape",
+        "relationship": "The artifact is the central mystery of the scene, with the astronaut and the landscape serving as a backdrop to its power and significance",
+        "relative_size": "Large, emphasizing the magnitude and wonder of the discovery",
+        "shape_and_color": "The artifact is a combination of deep blues and purples, with pulsing, iridescent lights that suggest an otherworldly energy and power",
+        "texture": "The artifact's texture is smooth and glassy, with a subtle, organic curvature that suggests a living, breathing entity",
+        "appearance_details": "The artifact is covered in subtle, intricate patterns and markings, that suggest an advanced, alien technology",
+        "pose": "None, as it is an inanimate object",
+        "orientation": "Dominating the background, with its pulsing lights and energy drawing the viewer's eye"
+      }
+    ],
+    "background_setting": "The Martian landscape, a vast, barren expanse of rust-red sand and rock, stretching out to the horizon and curving slightly to suggest the planet's curvature",
+    "lighting": {
+      "conditions": "A combination of soft, neutral light and cool, blue-purple background light, with subtle, warm accents to suggest the Martian sunset or the glow of the artifact",
+      "direction": "45\u00b0 key light, positioned to the side of the astronaut to create a sense of depth and dimensionality, with a soft, diffused quality to enhance the textures and colors of the scene",
+      "shadow": "Subtle, nuanced shadows that suggest the contours and textures of the Martian terrain and the astronaut's suit, with a medium to high contrast level to create a sense of depth and dimensionality"
+    },
+    "aesthetics": {
+      "composition": "Rule of thirds, positioning the astronaut and the artifact off-center to create a more dynamic composition, with the Martian landscape and the sky filling the rest of the frame",
+      "color_scheme": "A muted blend of rust-reds, metallic silvers, and deep blues, with pulsing, iridescent accents to suggest the otherworldliness and surreal quality of the scene",
+      "mood_atmosphere": "A sense of awe and wonder, combined with a sense of unease and mystery, as the astronaut encounters the alien artifact and the vast, barren expanse of the Martian landscape",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "Medium (f/4-8), ensuring that both the astronaut and the artifact are in focus, while the vast Martian landscape fades into the background",
+      "focus": "The astronaut and the artifact are in sharp focus, with a subtle, nuanced blur to suggest the distance and depth of the Martian landscape",
+      "camera_angle": "Eye-level, to emphasize the astronaut's perspective and create a sense of immediacy, while also allowing the viewer to fully absorb the enormity of the Martian landscape and the artifact",
+      "lens_focal_length": "24mm, to match the wide shot type and provide an expansive view of the Martian terrain, the astronaut, and the alien artifact"
+    },
+    "style_medium": "photograph",
+    "context": "Concept for a sci-fi film, capturing the essence of a groundbreaking discovery on Mars and the sense of awe and wonder that comes with it",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "Astronaut stands at the threshold of a groundbreaking discovery on Mars, surrounded by a surreal landscape and an ominous alien artifact. Camera: Eye-level, to emphasize the astronaut's perspective and create a sense of immediacy, while also allowing the viewer to fully absorb the enormity of the Martian landscape and the artifact. Lens: 24mm, to match the wide shot type and provide an expansive view of the Martian terrain, the astronaut, and the alien artifact. Lighting: A combination of soft, neutral light and cool, blue-purple background light, with subtle, warm accents to suggest the Martian sunset or the glow of the artifact",
+  "seed": 10858513,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/db1f630daca443918ee36fdbd4d1f8a8.png?Expires=1766433260&Signature=pOw7XWmHGLGsyzWEpp3SWVzsHqB9d~RNbbrAqMTa4EfuKfH5az-2wDjkuo27L6cozxlhsj2EBseQ~PHz8dDJ7Xcpp2T3Llk8WY7AtFLv2JfSLB5nFhvNKVZ1JYUizP7det~3b5vjeovRW0mZoF5BsYFegWDU6oxuXmu2pD3HK2CrQmGPpAXVTDtLOmR-4ZIOw7gMV8~zQbvwyOREPBWJJQ7jiIAjyzqnjVLIYarHikoimPwKhletP4xjJSPahYuYTdSLet7Q4FC7LhlCmPDe6qe9Svvr0ywPXn0bn4LQ26jcAIVD~MgR3~wljG-MotXYl~gC6mBXa~uJaUrKTm8kUQ__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 01:24:27.216918",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

@@ -1,0 +1,59 @@
+{
+  "shot_id": "shot_20251216_015354_7e4216e0",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Hero character at edge of cliff overlooking vast fantasy landscape",
+  "shot_type": "medium shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "A hero character stands at the edge of a cliff, contemplating the vast fantasy landscape before them, with a mix of determination and apprehension on their face",
+    "objects": [
+      {
+        "description": "The hero character, centered in the frame, wearing practical travel attire with a backpack and walking stick, and a contemplative facial expression",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "matches medium shot",
+        "shape_and_color": "Earthy tones for attire, contrasting with vibrant landscape colors",
+        "texture": "fabric of backpack and clothing, and the rough texture of the cliff",
+        "appearance_details": "contemplative expression with a mix of determination and apprehension, and open body language",
+        "pose": "standing with one foot slightly forward, conveying readiness to step into the unknown",
+        "orientation": "facing the landscape, with a slight inclination of the head"
+      }
+    ],
+    "background_setting": "A vast, expansive fantasy landscape with a mix of vibrant and earthy tones, stretching out to the horizon",
+    "lighting": {
+      "conditions": "Soft, golden hour lighting with a warm color temperature",
+      "direction": "45-degree angle to the hero's face, slightly above eye level",
+      "shadow": "soft, gentle shadows that minimize harsh lines and add to the serene atmosphere"
+    },
+    "aesthetics": {
+      "composition": "Rule of thirds, with the horizon line placed to create a balanced frame",
+      "color_scheme": "Teal/Orange contrast, with earthy tones for the cliff and hero's attire, and vibrant warm colors for the landscape",
+      "mood_atmosphere": "Contemplative, serene, and ominous, with a sense of adventure and uncertainty",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/5.6, to create a moderate depth of field that separates the hero from the landscape",
+      "focus": "sharp on the hero, with a slight softening of the landscape in the background",
+      "camera_angle": "slightly above eye level, looking up at the hero to create a sense of vulnerability",
+      "lens_focal_length": "50mm"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "A hero character stands at the edge of a cliff, contemplating the vast fantasy landscape before them, with a mix of determination and apprehension on their face. Camera: slightly above eye level, looking up at the hero to create a sense of vulnerability. Lens: 50mm. Lighting: Soft, golden hour lighting with a warm color temperature",
+  "seed": 2119817114,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/56ee73b5304e4964bfccaeacae26af79.png?Expires=1766435096&Signature=mmrROzVaXA4Sfef4at153nLzw9QOMyB4~dIRrMLGaF53oFzDIWQsaQbkmUKqeH7g3AgicU82RIJFTEjJSUHC0nl94M7gBlUPQIQ5FIKfKoWlxuO~YCxQKtOufdb~s9qrjxTCMFkPPbBr7-QEmCUtKyOztpUDJMdpRoyPgxhLud13tMH4vrDwNU~-I~0jw4W2wJupjn~5KyJZEserEBqv2Cb~lnxrRIzDb6DfajuEUkiAzqx1gtSl~qjqFMErlB1Tjh8Z94lHxe7ofdr88-A~gvcmLunAcZYHR79gBFSEHAr16SMNtI6-KqmvsrqZo8l1G7hQ9KcGl~JWf4-HCOynFw__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 01:54:59.586790",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

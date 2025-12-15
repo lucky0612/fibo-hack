@@ -1,0 +1,70 @@
+{
+  "shot_id": "shot_20251216_015304_fe8aaf13",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Astronaut discovering ancient alien artifact on Mars at sunset",
+  "shot_type": "medium shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "An astronaut stands in awe, discovering an ancient alien artifact at sunset on Mars",
+    "objects": [
+      {
+        "description": "Astronaut in a sleek, futuristic spacesuit with a visible face through the helmet's visor, conveying a mix of awe, curiosity, and introspection",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "prominent",
+        "shape_and_color": "Silver and black spacesuit with golden accents, contrasting with the ancient, mysterious alien artifact",
+        "texture": "Shiny metallic spacesuit and intricate, unknown textures of the artifact",
+        "appearance_details": "Astronaut's face shows a deep, introspective contemplation, with the artifact's details and textures evident",
+        "pose": "Static, with a subtle reach towards the artifact, symbolizing the moment of discovery",
+        "orientation": "Facing the camera, with the artifact to their left"
+      },
+      {
+        "description": "Ancient alien artifact with unfamiliar shapes and textures, representing the unknown",
+        "location": "left",
+        "relationship": "secondary focus",
+        "relative_size": "significant",
+        "shape_and_color": "Mysterious, earthy tones with hints of an otherworldly blue",
+        "texture": "Intricate, alien textures that invite curiosity",
+        "appearance_details": "Artifact's details and textures are evident, with long shadows cast by the setting sun",
+        "pose": "Static, as a counterpart to the astronaut's pose",
+        "orientation": "Facing the astronaut, with the setting sun behind"
+      }
+    ],
+    "background_setting": "Barren, dusty Martian landscape at sunset, with a vast, crimson and gold sky",
+    "lighting": {
+      "conditions": "Cinematic, warm, and contemplative, with a hint of the unknown",
+      "direction": "3/4 backlight, casting long shadows across the astronaut and the artifact",
+      "shadow": "Deep, defined shadows that emphasize the textures and details of the artifact"
+    },
+    "aesthetics": {
+      "composition": "Rule of thirds, with the astronaut and the artifact placed along these lines to create a visually appealing and balanced frame",
+      "color_scheme": "Teal and orange, with the warm, golden light of the setting sun contrasting with the cool, blue-ish hues of the Martian landscape",
+      "mood_atmosphere": "Profound reverence and contemplation, with a sense of wonder and awe",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/5.6, to ensure both the astronaut and the artifact are in focus, while the distant Martian landscape fades into a soft blur",
+      "focus": "Sharp on the astronaut and the artifact",
+      "camera_angle": "Slightly off-center, with the astronaut to the right and the artifact to their left",
+      "lens_focal_length": "50mm"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "An astronaut stands in awe, discovering an ancient alien artifact at sunset on Mars. Camera: Slightly off-center, with the astronaut to the right and the artifact to their left. Lens: 50mm. Lighting: Cinematic, warm, and contemplative, with a hint of the unknown",
+  "seed": 1392599707,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/b8f110a05eae4358830eb5768976ed34.png?Expires=1766435022&Signature=iBtPLf~aGcjdXU-XSXS8KWGCBpxb0Ypm8JVcRs6kONr7NPfFfvbFRXSsSNmB5aIpc~O5wfqKsb0bCsCxgpDJFaaBpnI60ZKJEa7Rczo9rmfZkf6OCDts7flJOtb9U3dUFPQ5EvwHO6F0qvh682MMmDowOkiayguLkcVbtll~MIU7PxZgChqWdbA-CN6KMqlMoVM3~-EGwU6VH3sXmtNKSMbBxUjbBDAU~XHj7UhTSxP9n8Nw5YxeCuwFumj6QfYcJqKesDCB93o1H~-94Un4SmGIPLDzMau0ItweZt3uxQai8ZKtWDVIIhLFXpNlCzp7oWVu8obLXaUUaXPEAyyCBg__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 01:53:45.002535",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

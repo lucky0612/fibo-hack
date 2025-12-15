@@ -1,0 +1,62 @@
+{
+  "shot_id": "shot_20251216_040052_8db97f6d",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "an astronaut discovering alien artifact on mars at sunset, dramatic cinematic lighting",
+  "shot_type": "wide shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "A 42-year-old male astronaut standing in awe, holding a metallic sample collection tool, with the setting sun of Mars casting a warm orange glow over his suit and an alien artifact at his feet, captured in a low-angle shot with a soft diffused rim light",
+    "objects": [
+      {
+        "description": "A 42-year-old male astronaut wearing a pristine white and grey spacesuit with a golden NASA emblem on the chest, the suit's fabric having a mix of matte and glossy textures, a hint of wear on the elbows and knees, standing tall with an athletic build and upright posture, his face partially hidden behind a reflective gold visor, short, dark brown hair visible at the nape of his neck, a sharp jawline and prominent nose, no facial hair, wearing a silver-toned watch on his left wrist, holding a metallic sample collection tool in his right hand and standing with his left hand resting on his hip, leaning forward slightly with his knees slightly bent as if in awe, oriented at a three-quarter turn to the camera",
+        "location": "center",
+        "relationship": "main focus",
+        "relative_size": "large",
+        "shape_and_color": "white, grey, gold, silver, dark brown",
+        "texture": "matte, glossy, fabric, metallic, skin",
+        "appearance_details": "pristine spacesuit, athletic build, upright posture, reflective gold visor, sharp jawline, prominent nose",
+        "pose": "standing with left hand on hip, leaning forward, knees slightly bent",
+        "orientation": "three-quarter turn to the camera"
+      }
+    ],
+    "background_setting": "vast, barren Martian landscape",
+    "lighting": {
+      "conditions": "rim light 5600K neutral",
+      "direction": "side 90",
+      "shadow": "soft shadows",
+      "quality": "soft diffused"
+    },
+    "aesthetics": {
+      "composition": "Rule of Thirds",
+      "color_scheme": "neutral with warm orange glow",
+      "mood_atmosphere": "historic moment",
+      "preference_score": "very high",
+      "aesthetic_score": "very high"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/8 medium",
+      "focus": "sharp on subject",
+      "camera_angle": "low_angle",
+      "lens_focal_length": "24mm",
+      "camera_movement": "static"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "photorealistic",
+    "negative_prompt": "blurry, low quality, deformed, disfigured, bad anatomy, extra limbs, mutation"
+  },
+  "simple_prompt": "A 42-year-old male astronaut standing in awe, holding a metallic sample collection tool, with the setting sun of Mars casting a warm orange glow over his suit and an alien artifact at his feet, captured in a low-angle shot with a soft diffused rim light",
+  "seed": 268550030,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/42a2f61f83b94459bac2050dc9a6b4f0.png?Expires=1766442665&Signature=dN062Zh-dfeXVgUnLNrb7JtEKDnocDBBmmu9~PTLvs2e4jsopt5PjTC-QTMBRE9Ov1ohl~hAmbgzwibV0wDmf~CRLjiySHVePOvI3yMrN5UEhlV8mKc86J1Liy7hjIuW-8x9tvj~MHYwbMVPY8XlRSJTUSgXyIYZX9UQW4QE4lIax40dUPn9R2fszLms-WRTV-5iVtIIPhjfMjrSyPAFMZzlbYMzNZOPs2U~XKzCgnNzmNIhybEW2hBYjST2WuNRDJOwDO9Z0JUmF4EK8MZgdZlJwiunyXzL7AAn6rfDGNnzrYeEAVxSraMj7mlJkZMgVPVPdRSdArlc2lujwhWtCA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 04:01:08.181734",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}

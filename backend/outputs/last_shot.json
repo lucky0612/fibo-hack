@@ -1,0 +1,38 @@
+{
+  "short_description": "Hero character stands at the edge of a cliff, contemplating the vast fantasy landscape before them, with a mix of determination and uncertainty",
+  "objects": [
+    {
+      "description": "The hero character, dressed in worn and tattered attire, with elements hinting at their noble quest or destiny, standing with feet shoulder-width apart and arms spread wide or clasped behind their back",
+      "location": "center",
+      "relationship": "main focus",
+      "relative_size": "medium shot",
+      "shape_and_color": "Silhouetted against the sky, with warm orange tones on their face and body, and cool teal tones in the shadows",
+      "texture": "Worn fabric and weathered skin",
+      "appearance_details": "Determined yet uncertain facial expression, with a focus on their profile",
+      "pose": "Standing with feet shoulder-width apart, with arms spread or clasped behind their back",
+      "orientation": "Facing away from the camera, looking out at the landscape"
+    }
+  ],
+  "background_setting": "A vast fantasy landscape stretching out to the horizon, with a deep foreboding blue sky, and clouds that seem to stretch on forever, casting long ominous shadows across the landscape",
+  "lighting": {
+    "conditions": "Rembrandt lighting setup, with a warm 3200K Key Light and a cool Fill Light",
+    "direction": "45-degree angle to the character's face, coming from the side opposite the landscape",
+    "shadow": "Soft and gentle, with a triangle of light under the character's eye on the shadow side of their face"
+  },
+  "aesthetics": {
+    "composition": "Rule of thirds, with the character's profile at one of the intersections, and the horizon line of the landscape placed along one of the top or bottom thirds lines",
+    "color_scheme": "Teal/Orange color contrast, with warm tones on the character and cool tones in the background",
+    "mood_atmosphere": "Contemplative and awe-inspiring, with a sense of uncertainty and determination",
+    "preference_score": "very high",
+    "aesthetic_score": "very high"
+  },
+  "photographic_characteristics": {
+    "depth_of_field": "Medium to deep, with an aperture of f/5.6 to f/8",
+    "focus": "Sharp on the character, with a gradual decline in sharpness towards the background",
+    "camera_angle": "Slightly low angle, about 2-3 feet below the character's eye level",
+    "lens_focal_length": "50mm"
+  },
+  "style_medium": "photograph",
+  "context": "cinematic movie still",
+  "artistic_style": "realistic"
+}

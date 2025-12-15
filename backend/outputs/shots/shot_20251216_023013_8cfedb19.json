@@ -1,0 +1,60 @@
+{
+  "shot_id": "shot_20251216_023013_8cfedb19",
+  "shot_number": null,
+  "shot_name": null,
+  "scene_description": "Hero character at edge of cliff overlooking vast fantasy landscape",
+  "shot_type": "medium shot",
+  "purpose": null,
+  "structured_prompt": {
+    "short_description": "A 40-year-old rugged man with a scar on his cheek, wearing a leather jacket, stands at the edge of a cliff, overlooking a vast fantasy landscape, contemplating his next move with a sense of melancholy and longing for adventure",
+    "objects": [
+      {
+        "description": "A 40yo rugged man, scar on cheek, leather jacket",
+        "location": "center",
+        "relationship": "main subject",
+        "relative_size": "small compared to the landscape",
+        "shape_and_color": "rugged features, leather jacket, scar on cheek",
+        "texture": "skin, fabric",
+        "appearance_details": "facial features, scar on cheek",
+        "pose": "standing, looking out into the distance",
+        "orientation": "facing the camera, with a slight turn"
+      }
+    ],
+    "background_setting": "A vast fantasy landscape with rolling hills, distant mountains, and a hint of mystical elements, softly focused to keep the main subject in focus",
+    "lighting": {
+      "conditions": "Chiaroscuro",
+      "direction": "45-degree angle to the subject's face",
+      "shadow": "Deep shadows, accentuating the scar on the subject's cheek"
+    },
+    "aesthetics": {
+      "composition": "Medium shot, off-center, with the horizon line at the top third of the frame",
+      "color_scheme": "Mixed (Warm Key/Cool Fill)",
+      "mood_atmosphere": "Melancholic contemplation",
+      "preference_score": "very high",
+      "aesthetic_score": "very high",
+      "negative_prompt": "blur, distortion, deformed hands, extra fingers, missing limbs, floating objects, watermark, text, signature, low quality, jpeg artifacts, cartoon, 3d render, plastic skin, ugly, asymmetric eyes, cross-eyed, bad anatomy, mutation"
+    },
+    "photographic_characteristics": {
+      "depth_of_field": "f/5.6",
+      "focus": "Sharp on subject's eyes",
+      "camera_angle": "Slightly low angle",
+      "lens_focal_length": "50mm"
+    },
+    "style_medium": "photograph",
+    "context": "cinematic movie still",
+    "artistic_style": "realistic"
+  },
+  "simple_prompt": "A 40-year-old rugged man with a scar on his cheek, wearing a leather jacket, stands at the edge of a cliff, overlooking a vast fantasy landscape, contemplating his next move with a sense of melancholy and longing for adventure. Lens: 50mm. Lighting: Chiaroscuro",
+  "seed": 25932341,
+  "image_url": "https://d1ei2xrl63k822.cloudfront.net/api/res/ed2a68fbb8784a63b51d88940612306d.png?Expires=1766437234&Signature=ZWSNnuxtTVddKE3kIUzzRfcEjHhU7T8uulhZ0mtmAWOm4CmdJ5ewbux7S7e2D0b5gJkw0fsM3sCgHiq1ZlKghonqOSOBHlThsys5u2rH6q64JjB8PXO5rKEA7abzExvGQ6LgShMtcj4UtXS6UyHhpB2m8sDJUlVey~YZOYvsm70ZEvclZqKjmOploHEel7bTwJl6PY09NlM5dWjwAJdzysV8QV7-cDnauY27PmCrkcn1r4xu8zqGd6pYdpqnVWqRwfCP3SQqoepVAJak6cLlcGNu5STvSaEgozCkDZ5BxK6VZmcAwZLRt5Qia~wn-4kELO~ruAVhhay7gduHVpMeKA__&Key-Pair-Id=K2UXO1NPZVKO7N",
+  "image_local_path": null,
+  "hdr_16bit_path": null,
+  "hdr_comparison_path": null,
+  "created_at": "2025-12-16 02:30:36.145455",
+  "modified_at": null,
+  "tags": [],
+  "notes": null,
+  "aspect_ratio": "16:9",
+  "steps": 50,
+  "guidance_scale": 5.0
+}
