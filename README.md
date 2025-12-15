@@ -13,7 +13,7 @@
 
 _Built for FIBO Hackathon 2025_
 
-[Watch Demo](YOUR_YOUTUBE_LINK) • [Try It Out](#quick-start) • [Read the Story](#the-story)
+[Watch Demo]((https://youtu.be/rDnu2cpFQD0)) • [Try It Out](#quick-start) • [Read the Story](#the-story)
 
 </div>
 
